@@ -1,6 +1,6 @@
 # interval-evaluator
 
-A custom programming language Interevaluator for evaluating intervals written with [Racket](https://racket-lang.org/). Programming assignment for Functional Programming course at the University of Ljubljana, Faculty of Computer and Information Science in 2019. Its purpose was to put into practice what we learned about programming language theory.
+A custom programming language *Interevaluator* for evaluating intervals written with [Racket](https://racket-lang.org/). Programming assignment for Functional Programming course at the University of Ljubljana, Faculty of Computer and Information Science in 2019. Its purpose was to put into practice what we learned about programming language theory.
 
 File navodila.pdf contains detailed instructions in the Slovene language. 
 
