@@ -37,10 +37,10 @@ To briefly summarize our programming language:
   * **(call e arg)**: call a function or a script **e**. If **e** is a script arg must be (nil)
   
 * Macros:
-  * **(subtract e1 e2)**: generates Interevaluator's expression (add **e1** (negate **e2**)))
-  * **(lower e1 e2)**: generates Interevaluator's expression that checks if **e1** is smaller than **e2**
-  * **(equal e1 e2)**: generates Interevaluator's expression that checks if **e1** is equal to **e2**
-  * **(encloses i1 i2)**: generates Interevaluator's expression that checks if interval **i1** is enclosed in interval **i2**
+  * **(subtract e1 e2)**: generates Interevaluator expression (add **e1** (negate **e2**)))
+  * **(lower e1 e2)**: generates Interevaluator expression that checks if **e1** is smaller than **e2**
+  * **(equal e1 e2)**: generates Interevaluator expression that checks if **e1** is equal to **e2**
+  * **(encloses i1 i2)**: generates Interevaluator expression that checks if interval **i1** is enclosed in interval **i2**
 
 
 ## Example
